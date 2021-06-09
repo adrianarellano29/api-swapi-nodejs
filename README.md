@@ -9,6 +9,7 @@ Descripción:
 API de prueba SWAPI: https://swapi.py4e.com/documentation
 
 Arquitectura:
+
 ![StarWarsArchitecture](https://user-images.githubusercontent.com/85643150/121412096-efdcd000-c929-11eb-92a6-7807b1b69f16.png)
 
 Desarrollado por Adrian Arellano.
